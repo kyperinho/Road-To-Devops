@@ -1,0 +1,10 @@
+# Linux-Fundamentals - Dzień 1 - 17.01.2026
+
+## Podstawy CLI (PandaAcademyIT)
+Ubuntu 25.10 na VirtualBoxie 
+
+### NAWIGACJA # Wraz z akronimami dla łatwiejszego zapamiętania
+
+pwd \\ print working directory
+ls \\ list \\ przełączniki -a (ukryte), -A (ukryte bez odnośników do siebie samego i folderu nadrzędnego), -lh (list z uszczegółowieniem, z przełącznikiem human dla normalizacji)
+cd \\ choose directory \\ przełączniki .. (nadrzędny folder), - (poprzedni folder), ~ (home)
