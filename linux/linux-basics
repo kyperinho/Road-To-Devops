@@ -20,5 +20,30 @@ mv \\ move \\ również dla zmieniana nazwy \\ "-f" (force), "-r" (rekursywnie, 
 rm \\ remove \\ "-r" (rekursywnie), "-d" (puste katalogi), "rm -rf /" (Odpowiednik usuń Windows/System32 :D)
 
 ### EDYTOWANIE I PODGLĄDANIE TREŚCI PLIKÓW
-cat \\ podejrzenie treści pliku \\ 
+
+cat \\ podejrzenie treści pliku \\ cat plik1 plik2 (podejrzewanie wielu plików naraz)
 nano \\ edytor tekstu \\
+# Zabawa plikami tekstowymi poprzez tekst Pana Tadeusza #
+wget https://wolnelektury.pl/media/book/txt/pan-tadeusz.txt
+#
+head -10 pan-tadeusz.txt \\ wyświetlanie określonej ilości linii z górnej części tekstu \\
+tail -10 pan-tadeusz.txt \\ wyświetlanie określonej ilości linii z dolnej części tekstu \\ "-f" (follow, dobre do czytania logów)
+grep Polska \\ wyświetlanie linijek z określoną wartością w pliku \\ 
+"-v" (linie które nie zawierają danej frazy), 
+"-i" (ignoruje wielkość liter we frazie), 
+"-r" (wyszukuje rekursywnie we wszystkich plikach), 
+"-c" (ilość linii z daną frazą)
+"-e" (podaje linijke w pliku z frazami)
+less \\ otwieranie edytora do poruszania się po pliku \\
+more \\ edytor do przeglądania, ale jak w Kindle \\
+
+### KOMENDY SYSTEMOWE
+
+watch \\ pełna strona terminala w której symultanicznie odświeża się dane wartości \\ "-n 1" odświeżanie co sekundę
+date \\ data \\ "watch -n 1 date" zegarek odświeżający co sekundę
+
+## ALIAS 
+
+alias \\ tworzenie krótszego pseudonimu dla dłuższej komendy \\
+alias znajdz="grep -ric -e"
+znajdz tadeusz 
