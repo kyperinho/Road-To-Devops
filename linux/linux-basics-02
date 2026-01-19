@@ -31,4 +31,17 @@ tar \\ nie kompresuje, ale tworzy hierarchiczne i jednolite archiwum, służyło
 gzip \\ narzędzie do kompresji archiwów utworzonych przez tar \\ 
 
 ## UŻYTKOWNICY I UPRAWNIENIA 
+sudo \\ elewacja uprawnień do roota \\ 
+useradd \\ dodawanie usera \\ "-m" tworzy od razu katalog usera \\
+passwd \\ nadawanie hasła \\
+whoami \\ print aktualnego użytkownika \\ 
+su \\ switch user \\ 
+sudo su \\ przełączenie się na roota \\
+id \\ informacje o uprawnieniach danego usera \\ 
 
+r - w - x
+4 - 2 - 1 
+
+chmod 744 plik1 \\ change modifier \\ nadanie rwx, r, r dla usera, grupy, others \\
+chmod (u/g/o) u+rwx \\ nadanie userowi rwx \\ 
+chown user plik \\ change ownership \\ 
