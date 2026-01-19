@@ -3,7 +3,7 @@
 ## Podstawy CLI (PandaAcademyIT)
 Ubuntu 25.10 na VirtualBoxie 
 
-### WYSZUKIWANIE PLIKÓW I KOMPRESJA 
+### WYSZUKIWANIE PLIKÓW, KOMPRESJA, UŻYTKOWNICY I UPRAWNIENIA
 
 ## WYSZUKIWANIE 
 find \\ przeszukiwanie obecnego katalogu w celu odnalezienia pliku \\
@@ -29,4 +29,6 @@ tar \\ nie kompresuje, ale tworzy hierarchiczne i jednolite archiwum, służyło
 -v \\ verbose \\ wywoływanie efektu na terminalu \\
 -f \\ pozwala na podanie nazwy pliku archiwum \\ 
 gzip \\ narzędzie do kompresji archiwów utworzonych przez tar \\ 
+
+## UŻYTKOWNICY I UPRAWNIENIA 
 
