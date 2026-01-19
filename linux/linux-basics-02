@@ -5,4 +5,6 @@ Ubuntu 25.10 na VirtualBoxie
 
 ### WYSZUKIWANIE PLIKÓW I KOMPRESJA ###
 
-find 
+find \\ przeszukiwanie obecnego katalogu w celu odnalezienia pliku \\
+-name \\ plik o danej nazwie \\
+-iname \\ plik o danej nazwie bez podziału na wielkość liter \\
