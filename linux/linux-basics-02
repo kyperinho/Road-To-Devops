@@ -3,8 +3,30 @@
 ## Podstawy CLI (PandaAcademyIT)
 Ubuntu 25.10 na VirtualBoxie 
 
-### WYSZUKIWANIE PLIKÓW I KOMPRESJA ###
+### WYSZUKIWANIE PLIKÓW I KOMPRESJA 
 
+## WYSZUKIWANIE 
 find \\ przeszukiwanie obecnego katalogu w celu odnalezienia pliku \\
+# Przełączniki 
 -name \\ plik o danej nazwie \\
 -iname \\ plik o danej nazwie bez podziału na wielkość liter \\
+-type \\ wyszukiwanie plików o danym typie \\ 
+-size +/- 1(b, k, M, G) \\ wyszukiwanie plików o rozmiarze większym/mniejszym niż podana wartość \\ 
+#
+
+locate \\ wyszukiwanie pliku na bazie własnej bazy danych, nie obciążająca zasobów serwera tak jak find \\
+updatedb \\ aktualizuje bazę danych dla komendy locate \\ 
+which \\ wyszukiwanie plików wyknowalnych \\
+whereis \\ to samo co which ale z man i --help \\ 
+
+## KOMPRESJA 
+
+tar \\ nie kompresuje, ale tworzy hierarchiczne i jednolite archiwum, służyło do zapisów na taśmach \\ 
+# Przełączniki 
+-c \\ create
+-x \\ extract
+-z \\ zip \\ wywoływanie kompresji lub dekompresji \\ 
+-v \\ verbose \\ wywoływanie efektu na terminalu \\
+-f \\ pozwala na podanie nazwy pliku archiwum \\ 
+gzip \\ narzędzie do kompresji archiwów utworzonych przez tar \\ 
+
