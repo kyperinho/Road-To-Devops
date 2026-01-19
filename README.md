@@ -5,6 +5,9 @@
 
 ## Plan nauki (ongoing)
 
+Swoje działanie chciałym oprzeć na znanym roadmaps.sh/devops
+Konsekwentne realizowanie kamieni milowych i przejśćie od braku znajomości prostych komend w bashu do tworzenia własnych projektów.
+
 | Etap | Zakres | Cel | Status |
 |------|--------|-----|--------|
 | **1** | Linux fundamentals, Git | Administrowanie serwerem Linux | 🔄 W trakcie |
