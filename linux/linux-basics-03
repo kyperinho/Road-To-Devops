@@ -1,1 +1,13 @@
+# Linux-Fundamentals - Dzień 3 - 20.01.2026
+
+## Podstawy CLI (PandaAcademyIT)
+Ubuntu 25.10 na VirtualBoxie 
+
+### INSTALOWANIE OPROGRAMOWANIA, PRACA NA LOGACH
+
+## INSTALOWANIE PACZEK
+
+sudo apt-get install program \\ przeszukuje repozytorium /etc/apt/sources.list i instaluje paczke z danym programem \\ 
+sudo apt install program \\ nowsza wersja apt-get, pokazuje progres bar, czego apt nie robi. jest w stanie instalować programy zależne do instalowanego programu \\ 
+
 
