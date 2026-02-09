@@ -10,4 +10,5 @@ Ubuntu 25.10 na VirtualBoxie
 sudo apt-get install program \\ przeszukuje repozytorium /etc/apt/sources.list i instaluje paczke z danym programem \\ 
 sudo apt install program \\ nowsza wersja apt-get, pokazuje progres bar, czego apt nie robi. jest w stanie instalować programy zależne do instalowanego programu \\ 
 
-
+dpkg -i program.deb \\ instalacja programu pobranego lokalnie z rozszerzeniem .deb \\ 
+dpkg -r program.deb \\ uninstall programu z pobranej paczki \\ 
