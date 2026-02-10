@@ -1,36 +1,40 @@
-# DevOps Roadmap 2026
+# 🚀 From Helpdesk to Cloud Security & DevOps
 
-**Styczeń 2026 – Warszawa**  
-*5 lat Local Admin w Helpdesku → Junior DevOps/Cloud Engineer*
+> 5 years IT Support → SOC Analyst → Cloud/DevOps Engineer  
+> Warsaw, Poland 🇵🇱 | Open to remote
 
-## Plan nauki (ongoing)
+---
 
-Swoje działanie chciałym oprzeć na znanym roadmaps.sh/devops
-Konsekwentne realizowanie kamieni milowych i przejśćie od braku znajomości prostych komend w bashu do tworzenia własnych projektów.
+## 👤 About Me
 
-| Etap | Zakres | Cel | Status |
-|------|--------|-----|--------|
-| **1** | Linux fundamentals, Git | Administrowanie serwerem Linux | 🔄 W trakcie |
-| **2** | Bash, Docker | Konteneryzacja aplikacji | 📋 Maj 2026 |
-| **3** | Terraform, AWS, CI/CD | Provisioning + pipelines | 📋 Sierpień 2026 |
-| **4** | AWS CloudOps cert | Certyfikat + portfolio | 📋 Październik 2026 |
+| | |
+|---|---|
+| **Current Role** | IT Support / Local Admin (5 years) |
+| **Focus Now** | SIEM (QRadar) + Security fundamentals |
+| **Target 2027** | Cloud Security Engineer / DevOps |
+| **English** | C1 (technical) |
 
-## Struktura repozytorium
-devops-roadmap/
-├── README.md # Ten plik
-├── linux/ # Notatki i skrypty Linux
-├── docker-projects/ # Projekty Docker
-├── terraform-aws/ # IaC projekty
-└── bash-scripts/ # Automatyzacja Bash/Python
+---
 
-## 🛠️ O mnie
+## 🎯 Current Focus (Q1 2026)
 
-- **Doświadczenie**: 5 lat Local Admin (Windows AD, GPO, hardware)
-- **Certyfikaty**: CompTIA Security+
-- **Język**: Angielski techniczny C1
-- **Lokalizacja**: Warszawa, PL
-- **GitHub Stats**:
-![Stats](https://github-readme-stats.vercel.app/api?username=kyperinho&show_icons=true&theme=radical)
+- [ ] IBM QRadar SIEM (company training - February 2026)
+- [ ] Regex for log parsing
+- [ ] Linux fundamentals
 
-## 📈 Commit Activity
-![Activity](https://github-readme-streak-stats.herokuapp.com/?user=kyperinho&theme=radical)
+---
+
+## 📜 Certifications
+
+| Certification | Status | Target Date |
+|---------------|--------|-------------|
+| CompTIA Security+ | 📚 Studying | Q3 2025 --> Now |
+| IBM QRadar | 📅 Scheduled | Q1 2026 |
+| AWS Cloud Practitioner | 📋 Planned | Q2 2026 |
+| Terraform Associate | 📋 Planned | Q4 2026 |
+
+---
+
+## 🗺️ Learning Roadmap
+
+Based on [roadmap.sh/devops](https://roadmap.sh/devops)
