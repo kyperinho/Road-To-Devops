@@ -21,6 +21,13 @@
 - [ ] IBM QRadar SIEM (company training - February 2026)
 - [ ] Regex for log parsing
 - [ ] Linux fundamentals
+- [ ]  Cybersecurity Projects
+
+- **QRadar SIEM Labs** → https://github.com/kyperinho/qradar-siem-labs  
+  Use cases, AQL queries, offense investigation notes, rule tuning.
+
+- **Regex for Security** → https://github.com/kyperinho/regex-for-security  
+  Regex patterns for log parsing (Windows/Linux/Web) + exercises.
 
 ---
 
